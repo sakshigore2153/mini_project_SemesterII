@@ -52,7 +52,9 @@ Role	Permissions
 Admin	Full access, manage users and books
 Librarian	Manage members, books, and issues
 Member	View books, give feedback
-🧠 Future Enhancements
+---
+
+## 🧠 Future Enhancements
 JWT-based login/authentication
 
 Fine system for late returns
@@ -60,7 +62,11 @@ Fine system for late returns
 Email/SMS notifications
 
 Role-based dashboards
-🧑‍💻 Developed By
+
+
+---
+
+##🧑‍💻 Developed By
        Gore Sakshi
 🌐 GitHub: github.com/sakshigore2153
 🎓 Role: master of commputer aaplication Student | Backend Developer
