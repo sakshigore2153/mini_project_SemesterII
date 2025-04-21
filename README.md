@@ -69,7 +69,7 @@ Role-based dashboards
 ##🧑‍💻 Developed By
        Gore Sakshi
 🌐 GitHub: github.com/sakshigore2153
-🎓 Role: master of commputer aaplication Student | Backend Developer
+🎓 Role: master of commputer aplication Student | Backend Developer
 
 
 
