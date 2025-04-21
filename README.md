@@ -1,6 +1,6 @@
 # 📚  Library Management System
 
- Library Management System is a web-based Library Management System built using **Spring Boot** and **MySQL**. It provides a complete solution for managing books, categories, members, issuing and returning books, and user roles (Admin, Librarian, Students/Parents).
+ Library Management System is a web-based Library Management System built using **Spring Boot** and **MySQL**. It provides a complete solution for managing books, categories, members, issuing and returning books, and user roles (Admin, Librarian, Students/Teachers).
 
 ---
 
